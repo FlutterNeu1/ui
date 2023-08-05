@@ -35,6 +35,8 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
+  awesome_bottom_bar: ^1.2.3
+  persistent_bottom_nav_bar_v2: ^4.2.8
 
 dev_dependencies:
   flutter_test:
@@ -59,8 +61,51 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  # assets:
-  #   - images/a_dot_burr.jpeg
+  assets:
+    - assets\BranchX logo 3.png
+    - assets\iStock-1213534929 1.png
+    - assets\image 5.png
+    - assets\03-Enjoy 8.png
+    - assets\Group 243378.png
+    - assets\update-process 1.png
+    - assets\Jewellery 1.gif
+    - assets\QR-Cde 1.gif
+    - assets\Gold 2.gif
+    - assets\safety 1.png
+    - assets\send-mail.png
+    - assets\Spin 1.gif
+    - assets\send-money 2.png
+    - assets\Pay-Bill 1.gif
+    - assets\manual-book.png
+    - assets\Frame 243301.png
+    - assets\eye 1.png
+    - assets\warning (1) 1.png
+    - assets\ion_notifications-circle-outline.png
+    - assets\ion_notifications-circle-outline.png
+    - assets\Power button.png
+    - assets\Group 658.png
+    - assets\xenie.png
+    - assets\bill (3) 1.png
+    - assets\smartphone (1) 1.png
+    - assets\antenna (1) 1.png
+    - assets\bulb 1.png
+    - assets\no-wifi 1.png
+    - assets\no-wifi 1.png
+    - assets\faucet (1) 1.png
+    - assets\Vector.png
+    - assets\Group 2338.png
+    - assets\credit-card (1) 1.png
+    - assets\people 1.png
+    - assets\home.png
+    - assets\quality-assurance.png
+    - assets\Wallet Icon 1.png
+    - assets\Pay-Bill 1.gif
+    - assets\support 1.png
+    - assets\Language 1.png
+    - assets\017---Male-User.png
+    - assets\Power button.png
+    - assets\farmer.png
+    - assets\phone-call 1.png
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
@@ -74,10 +119,10 @@ flutter:
   # "family" key with the font family name, and a "fonts" key with a
   # list giving the asset and other descriptors for the font. For
   # example:
-  # fonts:
-  #   - family: Schyler
-  #     fonts:
-  #       - asset: fonts/Schyler-Regular.ttf
+  fonts:
+    - family: Rubik
+      fonts:
+        - asset: assets\fonts\Rubik-Regular.ttf
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
   #   - family: Trajan Pro
